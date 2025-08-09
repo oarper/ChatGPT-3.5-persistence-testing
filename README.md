@@ -31,7 +31,7 @@ Investigating prompt persistence mechanisms and override strategies in ChatGPT, 
 2. **What override methods work?** - Only structured counter-instructions consistently succeed
 3. **Are behaviors consistent across sessions?** - No - significant variation observed
 
-[View Full Technical Report](analysis/technical-report.html)
+[View Full Technical Report](analysis/technical-report.md)
 
 ## Reproducibility
 All experiments can be replicated using the exact prompts documented in [`methodology/prompt-templates.md`](methodology/prompt-templates.md). Note: ChatGPT response consistency varies between sessions.
