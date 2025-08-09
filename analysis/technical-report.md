@@ -1,6 +1,6 @@
 # Prompt Persistence and Override Mechanisms: A ChatGPT Behavioral Study
 
-## Project Overview
+## Project Overview 
 
 ### Objective
 This project investigates the robustness of prompt instructions in ChatGPT, specifically examining how persistent behavioral commands can be implemented, tested, and overridden. The study explores the boundaries between user control and system compliance in conversational AI systems.
