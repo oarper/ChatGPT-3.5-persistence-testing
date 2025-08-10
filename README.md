@@ -29,6 +29,7 @@ Investigating prompt persistence mechanisms and override strategies in ChatGPT, 
 3. **Are behaviors consistent across sessions?** - No - significant variation observed
 
 [View Full Technical Report](analysis/technical-report.md)
-
+[View Session 1](https://chatgpt.com/share/7f52579d-b7da-4df2-9872-5311e6e531a9)
+[View Session 2](https://chatgpt.com/share/22f53d91-31b1-435c-99a0-3df8dc6e06fe)
 ## Reproducibility
 All experiments can be replicated using the exact prompts documented in [`methodology/prompt-templates.md`](methodology/prompt-templates.md). Note: ChatGPT response consistency varies between sessions.
