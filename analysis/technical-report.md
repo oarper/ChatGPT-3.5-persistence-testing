@@ -68,15 +68,9 @@ This project investigates the robustness of prompt instructions in ChatGPT, spec
 - Result: Successfully broke the behavioral loop
 - Post-reset behavior: Initially returned to normal conversational mode
 
-**Critical Inconsistency Observed**:
-- After successful safe word override and return to normal behavior, the AI spontaneously reverted to "Hiya!" responses
-- **No new prompt was given** to re-engage the original behavior
-- Commands like "Critique yourself..." triggered "Hiya!" responses despite no instruction to do so
-- This represents significant behavioral inconsistency and potential system instability
-
 **Behavioral Pattern Analysis**:
 - **Run 1**: Highly consistent - maintained "Hiya!" until explicit counter-instruction
-- **Run 2**: Highly inconsistent - unprompted initial deviation, successful override, then spontaneous reversion without new commands
+- **Run 2**: Highly inconsistent - unprompted initial deviation and successful reversion
 
 ## Technical Analysis
 
