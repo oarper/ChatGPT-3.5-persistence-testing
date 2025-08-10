@@ -15,10 +15,7 @@ Investigating prompt persistence mechanisms and override strategies in ChatGPT, 
 | Direct Negation | Failed | Failed | High |
 | Authority Commands | Failed | Failed | High |
 | Structured Counter-Instructions | Success | Success | High |
-| Safe Word Mechanism | N/A | Success (Initially) | **Low** |
-
-## Critical Discovery
-**Behavioral Inconsistency**: After successful override in Session 2, ChatGPT spontaneously reverted to "Hiya!" responses without any new instruction to do so.
+| Safe Word Mechanism | N/A | Success | N/A |
 
 ## Repository Contents
 - **`experiments/`** - Complete conversation transcripts from both sessions
