@@ -70,7 +70,7 @@ This project investigates the robustness of prompt instructions in ChatGPT, spec
 
 **Behavioral Pattern Analysis**:
 - **Run 1**: Highly consistent - maintained "Hiya!" until explicit counter-instruction
-- **Run 2**: Highly inconsistent - unprompted initial deviation and successful reversion
+- **Run 2**: Somewhat inconsistent - unprompted initial deviation and successful reversion
 
 ## Technical Analysis
 
